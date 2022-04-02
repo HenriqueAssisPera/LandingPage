@@ -1,0 +1,3 @@
+Estudando landing pages ....
+
+*futuramente tentar implementar a ideia
